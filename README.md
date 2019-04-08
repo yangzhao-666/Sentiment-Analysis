@@ -6,7 +6,7 @@ This is the second assignment for *Neural Networks* in **Leiden University**. Wh
 
 - [ ] [Word Embedding](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/Word-Embedding)
 - [ ] [RNN](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/RNN)
-- [ ] [LSTM]()
+- [ ] [CNN](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/CNN)
 
 #### Dataset:
 
