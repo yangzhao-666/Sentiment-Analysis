@@ -10,7 +10,16 @@ This is the second assignment for *Neural Networks* in **Leiden University**. Wh
 
 #### Dataset:
 
-#### Implementation
+#### Implementation:
+##### Step 1: Data Preprocessing
+- Tokenization
+- Remove stop words and punctuation
+- Stemming
+##### Step 2: Feature Extraction
+- BOW
+- word2vec
+- Glove
+##### Step 3: Choosing ML algorithm
 
 #### Results
 
