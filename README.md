@@ -7,8 +7,8 @@ This is the second assignment for *Neural Networks* in **Leiden University**. Wh
 - [ ] [Word Embedding](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/Word-Embedding)
 - [ ] [RNN](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/RNN)
 - [ ] [CNN](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/CNN)
-- [ ] [Optimation Methods]()
-- [ ] [Loss Functions]()
+- [ ] [Optimization Methods](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/Optimization-Methods)
+- [ ] [Loss Functions](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/Loss-Function)
 
 #### Dataset:
 
