@@ -1,4 +1,4 @@
-![](http://progressed.io/bar/48?title=completed)
+![](http://progressed.io/bar/80?title=completed)
 
 ## Sentiment Analysis
 
