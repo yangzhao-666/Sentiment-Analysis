@@ -29,3 +29,7 @@ This is the second assignment for *Neural Networks* in **Leiden University**. Wh
 > [Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts](https://www.aclweb.org/anthology/C16-1229)
 
 > [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
+
+> [BERT](https://arxiv.org/pdf/1810.04805v1.pdf)
+
+>[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
