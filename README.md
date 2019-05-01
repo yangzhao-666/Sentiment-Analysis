@@ -2,7 +2,10 @@
 
 ## Sentiment Analysis
 
-This is the second assignment for *Neural Networks* in **Leiden University**. What we try to do is doing a sentmiment analysis on ***movie review***, it's actually a competition on kaggle [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/overview). The main procedures are shown as follows:
+This is the second assignment for *Neural Networks* in **Leiden University**. What we try to do is doing a sentmiment analysis on ***movie review***, it's actually a competition on kaggle [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/overview). 
+### We also choose this topic as our final project, we're gonna dive into more detailed information of NLP and especially Sentiment Analysis.
+
+The main procedures are shown as follows:
 
 - [x] [Word Embedding](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/Word-Embedding)
 - [ ] [RNN](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/RNN)
