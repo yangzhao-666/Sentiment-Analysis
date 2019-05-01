@@ -7,7 +7,7 @@ This is the second assignment for *Neural Networks* in **Leiden University**. Wh
 
 The main procedures are shown as follows:
 
-- [][Word Embedding](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/Word-Embedding)
+- [ ] [Word Embedding](https://github.com/yangzhao-666/Sentiment-Analysis/wiki/Word-Embedding)
 
 
 #### Dataset:
