@@ -1,5 +1,9 @@
 ![](http://progressed.io/bar/80?title=completed)
 
+## Quick Start
+The code is [here](https://github.com/yangzhao-666/Sentiment-Analysis/blob/master/SentimentAnalysis.ipynb). 
+
+
 ## Sentiment Analysis
 
 This is the second assignment for *Neural Networks* in **Leiden University**. What we try to do is doing a sentmiment analysis on ***movie review***, it's actually a competition on kaggle [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/overview). 
